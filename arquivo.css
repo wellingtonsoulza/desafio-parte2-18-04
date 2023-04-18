@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    margin: 0;
+}
+
+
+#main-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+}
+
+.logo {
+    display: block;
+    width: 11rem;
+    min-height: 2rem;
+}
+
+.menu {
+    display: block;
+    width: 2rem;
+    height: 2rem;
+}
